@@ -17,7 +17,15 @@ El objetivo principal es mapear objetos de tipo "Envio" mediante la definición 
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
 ### 👉🏻 Lógica aplicada 🛠️
-
+- Programación Orientada a Objetos
+- Mapeo de objetos a partir de especificaciones o un csv ?
+- Uso y creación de archivos binarios como base de datos
+- consultas a nuestro archivo binario de busquedas
+- busquedas secuenciales
+- busquedas binarias
+- uso de matrices
+- generar arreglos a partir del archivo binario
+- 
 
 ### 👉🏻 Developer
 | <img src="https://media.licdn.com/dms/image/v2/C4D03AQGpdRZhfOFJbw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1598037671414?e=1730332800&v=beta&t=jE0LTqLNrvhUGnWoUorSdQJKk2ZTm3AO3CNuf4KcUcI" width=90> |
