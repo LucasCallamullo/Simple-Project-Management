@@ -4,8 +4,9 @@
 
 ## ✔ Descripción [ES]
 
-Este proyecto pertenece a un trabajo practico final de la materia Algoritmos y Estructura de Datos de la Universidad Tecnológica Nacional en la carrera de Ingeniería en Sistemas
-- El mismo consiste en mapear objetos "envios" a partir de definir la Clase "Envio" con sus atributos y metodos necesarios para lograrlo, los envios como tal se recuperan desde un archivo .csv que tenemos que leer para eventualmente recuperar toda la informacion correspondiente y almacenarla un archivo binario como base de datos para eventualmente realizar todas las consultas a partir de un menu de opciones
+Este proyecto es parte del trabajo práctico final de la materia "Algoritmos y Estructuras de Datos" de la carrera de Ingeniería en Sistemas de la Universidad Tecnológica Nacional.
+
+El objetivo principal es mapear objetos de tipo "Envio" mediante la definición de la clase Envio, con sus atributos y métodos correspondientes. Los datos de los envíos se recuperan desde un archivo .csv, el cual se procesa para extraer y organizar la información. Posteriormente, esta información se almacena en un archivo binario que actúa como base de datos. A partir de esta base de datos, se pueden realizar diversas consultas utilizando un menú de opciones.
 
 ### 👉🏻 Tools 🛠️
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
