@@ -10,7 +10,7 @@ Este proyecto pertenece a un trabajo practico final de la materia Algoritmos y E
 
 ### 👉🏻 Herramientas 🛠️
 
-![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap)![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=Javascript&logoColor=%23F7DF1E)![HTML](https://img.shields.io/badge/HTML-5A5A5A?style=for-the-badge&logo=HTML5&logoColor=E34F26)![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=E34F26)
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
 
 ### 👉🏻 Developers
