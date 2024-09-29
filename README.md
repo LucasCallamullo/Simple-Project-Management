@@ -1,6 +1,6 @@
 
 <div> 
-  Proyecto Gestion Envios 
+  <h1>Proyecto Gestion Envios</h1> 
   <hr></hr>
 </div>
 
