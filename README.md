@@ -16,6 +16,8 @@ El objetivo principal es mapear objetos de tipo "Envio" mediante la definición 
 ### 👉🏻 Tools 🛠️
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
+<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+
 ### 👉🏻 Lógica aplicada 🛠️
 - Programación Orientada a Objetos (POO): Diseño y organización del código mediante clases y objetos.
 - Mapeo de objetos a partir de un archivo CSV: Conversión de los datos en el archivo CSV en objetos de la clase Envio.
