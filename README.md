@@ -1,7 +1,7 @@
 
 # Proyecto Gestion Envios
 
-[![Static Badge](https://img.shields.io/badge/Documentation-EN-blue)](https://github.com/LucasCallamullo/proyecto-gestion-envios/blob/main/README-es.md) [![Documentation ES](https://img.shields.io/badge/Documentation-ES-green)](https://github.com/LucasCallamullo/E-commerce-App-Web/blob/main/README-ES.md)
+[![Static Badge](https://img.shields.io/badge/Documentation-EN-blue)](https://github.com/LucasCallamullo/proyecto-gestion-envios/blob/main/README.md) [![Documentation ES](https://img.shields.io/badge/Documentation-ES-green)](https://github.com/LucasCallamullo/proyecto-gestion-envios/blob/main/README-es.md)
 
 ## Descripción [ES]
 
