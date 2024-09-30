@@ -1,7 +1,7 @@
 
 <div> 
   <h1>Proyecto Gestion Envios</h1> 
-  
+  <br></br>
 </div>
 
 
@@ -11,13 +11,19 @@ Este proyecto es parte del trabajo práctico final de la materia "Algoritmos y E
 
 El objetivo principal es mapear objetos de tipo "Envio" mediante la definición de la clase Envio, con sus atributos y métodos correspondientes. Los datos de los envíos se recuperan desde un archivo .csv, el cual se procesa para extraer y organizar la información. Posteriormente, esta información se almacena en un archivo binario que actúa como base de datos. A partir de esta base de datos, se pueden realizar diversas consultas utilizando un menú de opciones.
 
+<br></br>
+
 ### 💻 Programming Language
 | ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) |
 |:-:|
 
+<br></br>
+
 ### 🛠️ Tools 
 | ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white) | ![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white) | ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) |
 |:-:|:-:|:-:|
+
+<br></br>
 
 ### 📝💻 Lógica aplicada 
 - Programación Orientada a Objetos (POO): Diseño y organización del código mediante clases y objetos.
@@ -30,6 +36,7 @@ El objetivo principal es mapear objetos de tipo "Envio" mediante la definición 
 - Generación de arreglos a partir del archivo binario: Creación de estructuras de datos que se extraen y procesan desde la base de datos binaria.
 - Uso de algoritmos de ordenamiento como Binary Insertion Sort o Shellsort: Para optimizar el ordenamiento por codigo postal al momento de crear un arreglo a partir del archivo.
 
+<br></br>
 
 ### 💻 Back-End Developer / Full-Stack Developer:
 
