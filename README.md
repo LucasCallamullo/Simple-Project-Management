@@ -5,8 +5,6 @@
 </div>
 
 
-##
-
 ## ✔ Descripción [ES]
 
 Este proyecto es parte del trabajo práctico final de la materia "Algoritmos y Estructuras de Datos" de la carrera de Ingeniería en Sistemas de la Universidad Tecnológica Nacional.
