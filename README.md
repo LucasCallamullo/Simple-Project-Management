@@ -1,9 +1,7 @@
 
-<div> 
-  <h1>Proyecto Gestion Envios</h1> 
-  <br></br>
-</div>
+# Proyecto Gestion Envios
 
+[![Static Badge](https://img.shields.io/badge/Documentation-EN-blue)](https://github.com/LucasCallamullo/E-commerce-App-Web/blob/main/README.md) [![Documentation ES](https://img.shields.io/badge/Documentation-ES-green)](https://github.com/LucasCallamullo/E-commerce-App-Web/blob/main/README-ES.md)
 
 ## ✔ Descripción [ES]
 
