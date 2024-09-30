@@ -33,10 +33,6 @@ El objetivo principal es mapear objetos de tipo "Envio" mediante la definición 
 
 ### 💻 Developer
 
-| **Nombre: Lucas Callamullo** 
-| [![GitHub Badge](https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/LucasCallamullo) 
-| [![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-callamullo/) 
-| [![LinkedIn Badge](https://img.shields.io/badge/<handle>%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white)](https://www.linkedin.com/in/lucas-callamullo/) 
-| 
+| **Nombre: Lucas Callamullo** | [![GitHub Badge](https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/LucasCallamullo) | [![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-callamullo/) | [![Youtube](https://img.shields.io/badge/<handle>%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white)](https://www.linkedin.com/in/lucas-callamullo/) |
 |:-:|:-:|:-:|:-:|
 
