@@ -37,11 +37,11 @@ The main objective is to map "Envio" (Shipment) type objects by defining the Env
 
 ### Images:
 ![](https://cdn.discordapp.com/attachments/1028131678209720431/1290364952472981515/image.png?ex=66fc3182&is=66fae002&hm=b513851cfca620d8bd1c39da508d5b1d6f7ac5d68946a82b970689d552ff84c5&)
-
 > Some screens of the app
 
-### 💻 Back-End Developer / Full-Stack Developer:
+<br></br>
 
+### 💻 Back-End Developer / Full-Stack Developer:
 | [![GitHub Badge](https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/LucasCallamullo) | [![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-callamullo/) | [![Youtube Badge](https://img.shields.io/badge/YouTube%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@lucas_clases_python) |
 |:-:|:-:|:-:|
 
