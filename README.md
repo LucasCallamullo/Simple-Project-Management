@@ -3,11 +3,10 @@
 
 [![Static Badge](https://img.shields.io/badge/Documentation-EN-blue)](https://github.com/LucasCallamullo/proyecto-gestion-envios/blob/main/README.md) [![Documentation ES](https://img.shields.io/badge/Documentation-ES-green)](https://github.com/LucasCallamullo/proyecto-gestion-envios/blob/main/README-es.md)
 
-## Descripción [ES]
+## Description [EN]
+This project is part of the final practical assignment for the subject "Algorithms and Data Structures" in the Systems Engineering program at the National Technological University.
 
-Este proyecto es parte del trabajo práctico final de la materia "Algoritmos y Estructuras de Datos" de la carrera de Ingeniería en Sistemas de la Universidad Tecnológica Nacional.
-
-El objetivo principal es mapear objetos de tipo "Envio" mediante la definición de la clase Envio, con sus atributos y métodos correspondientes. Los datos de los envíos se recuperan desde un archivo .csv, el cual se procesa para extraer y organizar la información. Posteriormente, esta información se almacena en un archivo binario que actúa como base de datos. A partir de esta base de datos, se pueden realizar diversas consultas utilizando un menú de opciones.
+The main objective is to map "Envio" (Shipment) type objects by defining the Envio class, along with its attributes and corresponding methods. Shipment data is retrieved from a .csv file, which is processed to extract and organize the information. This information is then stored in a binary file that serves as a database. From this database, various queries can be made using a menu of options.
 
 <br></br>
 
@@ -23,16 +22,16 @@ El objetivo principal es mapear objetos de tipo "Envio" mediante la definición 
 
 <br></br>
 
-### 📝💻 Lógica aplicada 
-- Programación Orientada a Objetos (POO): Diseño y organización del código mediante clases y objetos.
-- Mapeo de objetos a partir de un archivo CSV: Conversión de los datos en el archivo CSV en objetos de la clase Envio.
-- Uso y creación de archivos binarios como base de datos: Almacenamiento eficiente de los objetos mapeados en un archivo binario que actúa como base de datos.
-- Consultas sobre el archivo binario: Implementación de un sistema de búsqueda que permite realizar consultas sobre los datos almacenados.
-- Búsquedas secuenciales: Exploración de los datos uno a uno para localizar elementos.
-- Búsquedas binarias: Optimización de las consultas mediante la implementación de algoritmos de búsqueda binaria.
-- Uso de matrices: Implementación de estructuras de datos matriciales para organizar y procesar la información.
-- Generación de arreglos a partir del archivo binario: Creación de estructuras de datos que se extraen y procesan desde la base de datos binaria.
-- Uso de algoritmos de ordenamiento como Binary Insertion Sort o Shellsort: Para optimizar el ordenamiento por codigo postal al momento de crear un arreglo a partir del archivo.
+### 📝💻 Applied Logic
+- Object-Oriented Programming (OOP): Design and organization of code through classes and objects.
+- Mapping objects from a CSV file: Conversion of data from the CSV file into objects of the Envio class.
+- Use and creation of binary files as a database: Efficient storage of mapped objects in a binary file that serves as a database.
+- Queries on the binary file: Implementation of a search system that allows querying the stored data.
+- Sequential searches: Exploring the data one by one to locate elements.
+- Binary searches: Optimizing queries by implementing binary search algorithms.
+- Use of Arrays: Implementation of matrix data structures to organize and process information.
+- Generation of arrays from the binary file: Creation of data structures that are extracted and processed from the binary database.
+- Use of sorting algorithms like Binary Insertion Sort or Shellsort: To optimize sorting by postal code when creating an array from the file.
 
 <br></br>
 
