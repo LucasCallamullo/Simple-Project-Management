@@ -3,7 +3,7 @@
 
 [![Static Badge](https://img.shields.io/badge/Documentation-EN-blue)](https://github.com/LucasCallamullo/E-commerce-App-Web/blob/main/README.md) [![Documentation ES](https://img.shields.io/badge/Documentation-ES-green)](https://github.com/LucasCallamullo/E-commerce-App-Web/blob/main/README-ES.md)
 
-## ✔ Descripción [ES]
+## Descripción [ES]
 
 Este proyecto es parte del trabajo práctico final de la materia "Algoritmos y Estructuras de Datos" de la carrera de Ingeniería en Sistemas de la Universidad Tecnológica Nacional.
 
