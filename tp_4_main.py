@@ -20,8 +20,8 @@ def menu():
 def principal():
 
     # nombre de nuestro archivo .csv
-    csv = "envios-tp4.csv"
-    csv = "envios-muestra.csv"
+    csv = "csv\envios-tp4.csv"
+    # csv = "csv\envios-muestra.csv"
 
     # crear nuestro nombre del archivo
     fd = "envios.dat"

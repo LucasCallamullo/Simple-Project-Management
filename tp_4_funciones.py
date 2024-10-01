@@ -20,7 +20,7 @@ def validar_opcion(mensaje):
 
 def opcion1(csv, fd):
     """
-    strip(): Está función esta ahí para eliminar los caracteres en blanco,
+    strip(): Está función esta ahí para eliminar los carácteres en blanco,
     incluyendo saltos de línea al final de cada línea que se lee.
 
     split(","): Divide cada línea en una lista de elementos, usando la coma como delimitador.

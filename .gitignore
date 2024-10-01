@@ -1,3 +1,6 @@
 
 # para excluir archivos
 git_steps.py
+
+# Archivos de caché de Python
+__pycache__/
