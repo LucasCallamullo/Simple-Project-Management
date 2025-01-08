@@ -34,7 +34,7 @@ The main objective is to map "Envio" (Shipment) type objects by defining the Env
 <br></br>
 
 ### Images:
-![](https://cdn.discordapp.com/attachments/1028131678209720431/1290364952472981515/image.png?ex=66fc3182&is=66fae002&hm=b513851cfca620d8bd1c39da508d5b1d6f7ac5d68946a82b970689d552ff84c5&)
+![](blob:https://ar.pinterest.com/94f839ac-1614-4f8d-8beb-fa43be651e42)
 > Some screens of the app
 
 <br></br>
