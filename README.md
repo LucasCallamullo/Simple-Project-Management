@@ -34,7 +34,7 @@ The main objective is to map "Envio" (Shipment) type objects by defining the Env
 <br></br>
 
 ### Images:
-![](blob:https://ar.pinterest.com/94f839ac-1614-4f8d-8beb-fa43be651e42)
+![](https://ar.pinterest.com/94f839ac-1614-4f8d-8beb-fa43be651e42)
 > Some screens of the app
 
 <br></br>
